@@ -5,3 +5,5 @@ Bash script to test and update settings in vu-dials via console. Leverage the co
 This is very quick and dirty version of the script. Still lot of work in progress.
 
 
+
+![](https://github.com/thamarnan/vu-dials-util/blob/6a86c36b408c6cbc8115b10b089cb7abdc5e7d4c/console_demo.gif)
