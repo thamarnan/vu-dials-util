@@ -1,5 +1,5 @@
 # VU1 Dials Utilities
-VU1 - Dynamic Analogue Dials Tools
+VU1 - Dynamic Analogue Dials (STREACOM VU Dials)
 <p align="center">
 <img src="https://github.com/thamarnan/vu-dials-util/blob/main/image.png?raw=true" width="200">
 </p>
